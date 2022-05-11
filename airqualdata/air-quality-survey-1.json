@@ -1,0 +1,138 @@
+<html>
+<head>
+  <title>Layer: Health_AirQualitySurvey (ID:0)</title>
+  <link href='/ESRI.ArcGIS.SDS.REST.css' rel='stylesheet' type='text/css'>
+  <link rel='SHORTCUT ICON' href='/favicon.ico'>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/> 
+</head>
+<body>
+<table width="100%" class="userTable">
+<tr>
+<td class="titlecell">ArcGIS REST Services Directory</td>
+</tr>
+</table>
+<table class="navTable" width="100%">
+<tbody>
+<tr valign="top">
+<td class="breadcrumbs">
+<a href="/afSMGVsC7QlRK1kZ/ArcGIS/rest/services">Home</a> > <a href="/afSMGVsC7QlRK1kZ/ArcGIS/rest/services">services</a> > <a href="/afSMGVsC7QlRK1kZ/ArcGIS/rest/services/AirQualitySurvey2015Update/FeatureServer">AirQualitySurvey2015Update (FeatureServer)</a> > <a href="/afSMGVsC7QlRK1kZ/ArcGIS/rest/services/AirQualitySurvey2015Update/FeatureServer/0">Health_AirQualitySurvey</a> </td>
+<td align="right">
+<a href="http://resources.arcgis.com/en/help/arcgis-rest-api/" target="_blank">API Reference</a></td>
+</tr>
+</tbody>
+</table>
+<table>
+<tr>
+<td class="apiref">
+<a href="?f=pjson" target="_blank">JSON</a>
+</td>
+</tr>
+</table>
+<div class='restHeader'>
+<h2>Layer: Health_AirQualitySurvey (ID:0)</h2>
+</div>
+<div class='restBody'>
+<b>View In: </b>
+&nbsp;&nbsp;<a href="http://www.arcgis.com/home/webmap/viewer.html?url=https://services.arcgis.com/afSMGVsC7QlRK1kZ/ArcGIS/rest/services/AirQualitySurvey2015Update/FeatureServer/0&source=sd" target="_blank">ArcGIS.com Map</a>
+<br/><br/>
+<b>Name:</b> Health_AirQualitySurvey<br/>
+<br/>
+<b>Display Field:</b> Name<br/>
+<br/>
+<b>Type:</b> Feature Layer<br/>
+<br/>
+<b>Geometry Type:</b> esriGeometryPoint<br/>
+<br/>
+<b>Description:</b> <br/>
+<br/>
+<b>Copyright Text:</b> <br/>
+<br/>
+<b>Min. Scale:</b> 0<br/>
+<br/>
+<b>Max. Scale:</b> 0<br/>
+<br/>
+<b>Default Visibility:</b> true<br/>
+<br/>
+<b>Max Record Count:</b> 1000<br/>
+<br/>
+<b>Supported query Formats:</b> JSON<br/>
+<br/>
+<b>Use Standardized Queries:</b> False<br/>
+<br/>
+<b>Extent:</b> <br/>
+<ul>
+XMin: -10389087.5388<br/>
+YMin: 5604646.4782<br/>
+XMax: -10375953.8275<br/>
+YMax: 5629016.754<br/>
+Spatial Reference: 102100<br/>
+</ul>
+<br/>
+<b>Drawing Info:</b> <br/>
+<ul>{"renderer":{"type":"simple","symbol":{"type":"esriSMS","style":"esriSMSCircle","color":[133,0,11,255],"size":4,"angle":0,"xoffset":0,"yoffset":0,"outline":{"color":[0,0,0,255],"width":1}},"label":"","description":""},"transparency":0,"labelingInfo":null}</ul><br/>
+<b>HasZ:</b> false<br/>
+<br/>
+<b>HasM:</b> false<br/>
+<br/>
+<b>Has Attachments:</b> false<br/>
+<br/>
+<b>Has Geometry Properties:</b> false<br/>
+<br/>
+<b>HTML Popup Type:</b> esriServerHTMLPopupTypeAsHTMLText<br/>
+<br/>
+<b>Object ID Field:</b> ObjectID<br/>
+<br/>
+<b>Unique ID Field:</b> <br/>
+<ul>
+Name : ObjectID<br/>
+</ul>
+<ul>
+IsSystemMaintained : True<br/>
+</ul>
+<br/>
+<b>Global ID Field:</b> <br/>
+<br/>
+<b>Type ID Field:</b> <br/>
+<br/>
+<b>Fields:</b>
+<ul>
+  <li>ObjectID <i>(type: esriFieldTypeOID, alias: ObjectID, SQL Type: sqlTypeOther, length: 0, nullable: false, editable: false)</i></li>
+  <li>Date <i>(type: esriFieldTypeString, alias: Date, SQL Type: sqlTypeOther, length: 255, nullable: true, editable: true)</i></li>
+  <li>Sample_ID <i>(type: esriFieldTypeString, alias: Sample_ID, SQL Type: sqlTypeOther, length: 255, nullable: true, editable: true)</i></li>
+  <li>Parameter <i>(type: esriFieldTypeString, alias: Parameter, SQL Type: sqlTypeOther, length: 255, nullable: true, editable: true)</i></li>
+  <li>Results <i>(type: esriFieldTypeDouble, alias: Results, SQL Type: sqlTypeOther, nullable: true, editable: true)</i></li>
+  <li>Units <i>(type: esriFieldTypeString, alias: Units, SQL Type: sqlTypeOther, length: 255, nullable: true, editable: true)</i></li>
+  <li>CAS <i>(type: esriFieldTypeString, alias: CAS, SQL Type: sqlTypeOther, length: 255, nullable: true, editable: true)</i></li>
+  <li>HRV <i>(type: esriFieldTypeDouble, alias: HRV, SQL Type: sqlTypeOther, nullable: true, editable: true)</i></li>
+  <li>Units1 <i>(type: esriFieldTypeString, alias: Units1, SQL Type: sqlTypeOther, length: 255, nullable: true, editable: true)</i></li>
+  <li>HRV_Types <i>(type: esriFieldTypeString, alias: HRV_Types, SQL Type: sqlTypeOther, length: 255, nullable: true, editable: true)</i></li>
+  <li>Name <i>(type: esriFieldTypeString, alias: Name, SQL Type: sqlTypeOther, length: 255, nullable: true, editable: true)</i></li>
+  <li>Description <i>(type: esriFieldTypeString, alias: Description, SQL Type: sqlTypeOther, length: 255, nullable: true, editable: true)</i></li>
+  <li>Address <i>(type: esriFieldTypeString, alias: Address, SQL Type: sqlTypeOther, length: 255, nullable: true, editable: true)</i></li>
+  <li>City_1 <i>(type: esriFieldTypeString, alias: City_1, SQL Type: sqlTypeOther, length: 255, nullable: true, editable: true)</i></li>
+  <li>State <i>(type: esriFieldTypeString, alias: State, SQL Type: sqlTypeOther, length: 255, nullable: true, editable: true)</i></li>
+  <li>Zip <i>(type: esriFieldTypeDouble, alias: Zip, SQL Type: sqlTypeOther, nullable: true, editable: true)</i></li>
+</ul>
+<br/>
+<b>Templates:</b> <br/>
+<ul>Name: Health_AirQualitySurvey<br/>
+Description: <br/>
+Drawing Tool: esriFeatureEditToolPoint<br/>
+Prototype: <br/>
+<ul>Attributes: <br/>
+<ul></ul></ul></ul><br/>
+<b>Is Data Versioned:</b> false<br/>
+<br/>
+<b>Supports Rollback On Failure Parameter:</b> true<br/>
+<br/>
+<b>Last Edit Date:</b> 12/2/2015 5:28:23 PM<br/>
+<br/>
+<b>Supported Operations: </b>
+&nbsp;&nbsp;<a href="/afSMGVsC7QlRK1kZ/arcgis/rest/services/AirQualitySurvey2015Update/FeatureServer/0/query">Query</a>
+&nbsp;&nbsp;<a href="/afSMGVsC7QlRK1kZ/arcgis/rest/services/AirQualitySurvey2015Update/FeatureServer/0/queryTopFeatures">Query Top Features</a>
+&nbsp;&nbsp;<a href="/afSMGVsC7QlRK1kZ/arcgis/rest/services/AirQualitySurvey2015Update/FeatureServer/0/generateRenderer">Generate Renderer</a>
+&nbsp;&nbsp;<a href="/afSMGVsC7QlRK1kZ/arcgis/rest/services/AirQualitySurvey2015Update/FeatureServer/0/validateSQL">Validate SQL</a>
+<br/><br/>
+</div>
+</body>
+</html>
